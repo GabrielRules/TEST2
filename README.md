@@ -2,45 +2,6 @@
 
 
 
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol">
-  <img
-    src="https://raw.githubusercontent.com/architectquant/DREAMEROL-SYNC/2f8a8a9df20d90363b9a46c718a970013ee7b8e8/assets/dreamerol-sync-hero.png"
-    width="100%"
-    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia "
-  />
-</a>
-
-</div>
-
-
-
-
-
-
-
-
-<br>
-
-<br>
-
-<br>
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-
-
 <table>
 <tr>
 
